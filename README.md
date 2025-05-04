@@ -44,7 +44,7 @@ Edit it to look something like this:
 
 | Key                  | Description                                   |
 |----------------------|-----------------------------------------------|
-| `token`              | Your Discord user/bot token                   |
+| `token`              | Your Discord user token                       |
 | `channel_id`         | ID of the channel to send the message to      |
 | `guild_id`           | ID of the Discord server (optional)           |
 | `message`            | Content of the message                        |
